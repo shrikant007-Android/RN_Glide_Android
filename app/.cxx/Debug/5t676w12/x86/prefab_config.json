@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "prefabPath": "/Users/shrikant.d.ingole/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar",
-  "packages": [
-    "/Users/shrikant.d.ingole/.gradle/caches/9.0-milestone-1/transforms/1282ace7b77b6f8460d15e1dfdb78200/transformed/react-android-0.85.3-debug/prefab",
-    "/Users/shrikant.d.ingole/.gradle/caches/9.0-milestone-1/transforms/b46124a3fda3ebe3ddf2db16072e2e85/transformed/hermes-android-250829098.0.10-debug/prefab",
-    "/Users/shrikant.d.ingole/.gradle/caches/9.0-milestone-1/transforms/7d5187060c349c08af38d09b72ef3fb9/transformed/fbjni-0.7.0/prefab"
-  ]
-}

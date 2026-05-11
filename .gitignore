@@ -26,8 +26,6 @@ android/*.gradle/
 *.aab
 /.gradle/
 /build/
-android/app/.cxx/
 /app/build/
 /.idea/
-/app/*.cxx/
-/.idea/
+app/.cxx/

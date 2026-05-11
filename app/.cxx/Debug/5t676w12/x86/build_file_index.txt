@@ -1,1 +1,0 @@
-/Users/shrikant.d.ingole/Documents/React native Learn/RN_Image_Assignment/RN_GrideImage/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt
