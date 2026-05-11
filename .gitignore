@@ -24,3 +24,10 @@ android/*.gradle/
 # Bundle/APK
 *.apk
 *.aab
+/.gradle/
+/build/
+android/app/.cxx/
+/app/build/
+/.idea/
+/app/*.cxx/
+/.idea/
