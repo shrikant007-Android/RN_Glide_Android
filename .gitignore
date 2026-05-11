@@ -31,7 +31,3 @@ android/app/.cxx/
 /.idea/
 /app/*.cxx/
 /.idea/
-android/app/.cxx/*
-# NDK / CMake generated files
-.cxx/
-app/.cxx/
