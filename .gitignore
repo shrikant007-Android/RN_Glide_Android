@@ -11,7 +11,8 @@ android/local.properties
 android/captures/
 android/.idea/
 android/*.iml
-
+android/app/build/
+android/app/*.cxx/
 # Keystore
 android/*.jks
 android/*.keystore
@@ -19,7 +20,7 @@ android/*.keystore
 # Env
 .env
 .env.*
-
+android/*.gradle/
 # Bundle/APK
 *.apk
 *.aab
