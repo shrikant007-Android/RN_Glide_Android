@@ -1,0 +1,25 @@
+# React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/captures/
+android/.idea/
+android/*.iml
+
+# Keystore
+android/*.jks
+android/*.keystore
+
+# Env
+.env
+.env.*
+
+# Bundle/APK
+*.apk
+*.aab

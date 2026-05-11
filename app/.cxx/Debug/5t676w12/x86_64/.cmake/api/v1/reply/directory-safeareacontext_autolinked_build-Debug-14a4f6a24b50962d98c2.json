@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "safeareacontext_autolinked_build",
+		"source" : "/Users/shrikant.d.ingole/Documents/React native Learn/RN_Image_Assignment/RN_GrideImage/node_modules/react-native-safe-area-context/android/src/main/jni"
+	}
+}
